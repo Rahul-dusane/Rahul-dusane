@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="wallpaperflare.com_wallpaper (1).jpg" alt="Welcome Banner" style="width:100%; height:auto; max-height:300px;" />
+  <img src="wallpaperflare.com_wallpaper (1).jpg" alt="Welcome Banner" style="width:1200px; height:267px;" />
 </p>
+
 
 # 🌟 Hey there, I'm **Rahul Dusane**! 👋  
 
