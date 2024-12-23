@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wallpaperflare.com_wallpaper (1).jpg" alt="Welcome Banner" />
+  <img src=""C:\Users\rahul\Downloads\wallpaperflare.com_wallpaper (1).jpg"" alt="Welcome Banner" />
 </p>
 
 # 🌟 Hey there, I'm **Rahul Dusane**! 👋  
