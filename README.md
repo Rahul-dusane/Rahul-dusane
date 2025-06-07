@@ -18,7 +18,7 @@
 📂 **Database Management:**  
 - 🛢️ SQL, DBMS
 
-- 🔄 **Version Control:**  
+🔄 **Version Control:**  
 - 🌱 Git, GitHub  
 
 ---
