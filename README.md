@@ -16,7 +16,10 @@
 - 🎨 HTML, CSS, Bootstrap, JavaScript  
 
 📂 **Database Management:**  
-- 🛢️ SQL, DBMS  
+- 🛢️ SQL, DBMS
+
+- 🔄 **Version Control:**  
+- 🌱 Git, GitHub  
 
 ---
 
